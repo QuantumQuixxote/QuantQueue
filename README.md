@@ -1,4 +1,4 @@
-# IBM Qiskit Quantum Randmness powered Queue Worflow
+# IBM Qiskit based Quantum Queue Circuit
 
 ## Components
 - Basic Aer Circuit
